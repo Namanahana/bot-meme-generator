@@ -1,0 +1,3 @@
+# ===== DISCORD =====
+TOKEN = "TOKEN"
+PREFIX = "!"
